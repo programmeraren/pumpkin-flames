@@ -1,7 +1,7 @@
 # Pumpkin Flames
 A simple and small Halloween project to simulate some flames for a pumpkin display using an Arduino Pro Mini and five LED:s with five resistors.
 
-The aim was to make a fairly realistic flame appearance to cast some light within a plastic pumpkin for Halloween. The components are soldered staight onto the Arduino Pro Mini board and then glued at the top of the pumpkin using a gluegun.
+The aim was to make a fairly realistic flame appearance to cast some light within a plastic pumpkin for Halloween. The components are soldered straight onto the Arduino Pro Mini board and then glued at the top of the pumpkin using a gluegun.
 
 The code was written using PlatformIO for an Arduino Pro Mini, but you can easily adjust it for probably any Arduino or similar processor.
 
@@ -14,7 +14,7 @@ This design is only drawing around 5-10mA per LED so it should not put any curre
 </p>
 
 ## Features
-Brightness of five LED:s are independently controlled randomly in order to create a flickering effect similar to an open fire och candle flame.
+Brightness of five LED:s are independently controlled randomly in order to create a flickering effect similar to an open fire or candle flame.
 
 ## Hardware
 I have used an Arduino Pro Mini for my circuit. See the [Pumpkin Flames rev 1.0 schematics](docs/Pumpkin+Flames+rev+1.0+-+schematics.pdf) (pdf).
