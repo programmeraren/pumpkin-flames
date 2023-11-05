@@ -17,7 +17,7 @@ This design is only drawing around 5-10mA per LED so it should not put any curre
 Brightness of five LED:s are independently controlled randomly in order to create a flickering effect similar to an open fire or candle flame.
 
 ## Hardware
-I have used an Arduino Pro Mini for my circuit. See the [Pumpkin Flames rev 1.0 schematics](docs/Pumpkin+Flames+rev+1.0+-+schematics.pdf) (pdf).
+I have used an Arduino Pro Mini for my circuit. See the [Pumpkin Flames rev 1.0 schematics](docs/Pumpkin%20Flames%20rev%201.0%20-%20schematics.pdf) (pdf).
 
 ### Parts used for this project
 - 1 pcs Arduino Pro Mini board
